@@ -2005,7 +2005,7 @@ body.blog .pagination li a i {
 
 .scrollbar-custom {
     height:  584px;
-    width:  645px;
+    max-width:  645px;
     overflow-y:  scroll;
 }
 
